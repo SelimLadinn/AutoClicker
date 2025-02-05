@@ -1,0 +1,10 @@
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\bin\Debug\autoclickerBeta.exe.config
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\bin\Debug\autoclickerBeta.exe
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\bin\Debug\autoclickerBeta.pdb
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\obj\Debug\autoclickerBeta.csproj.AssemblyReference.cache
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\obj\Debug\autoclickerBeta.Form1.resources
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\obj\Debug\autoclickerBeta.Properties.Resources.resources
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\obj\Debug\autoclickerBeta.csproj.GenerateResource.cache
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\obj\Debug\autoclickerBeta.csproj.CoreCompileInputs.cache
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\obj\Debug\autoclickerBeta.exe
+C:\Users\Yakuz\source\repos\autoclickerBeta\autoclickerBeta\obj\Debug\autoclickerBeta.pdb
